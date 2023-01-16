@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    background-color: rgb(212, 212, 212);
+    line-height: 0.1rem;
+    font-weight: 700;
+}
+#map {
+    border-radius: 5px;
+    height: 50vh;
+    width: 90%;
+    box-shadow: 2px 2px 3px grey;
+
+}
+p {font-size: 1.2rem;}
