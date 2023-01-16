@@ -14,6 +14,7 @@ Applikationen kan ses geneom följande länk: https://anderssundin.github.io/ISS
 - Navigera till mappen via exempelvis kommandotolken
 - Skriv: git init
 - Skriv: git clone https://github.com/anderssundin/ISS
+- 
 Nu laddas en kopia ner till din dator och den mapp du angett.
 
 
