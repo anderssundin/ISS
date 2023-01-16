@@ -4,3 +4,5 @@ Denna applikation hämtar data om rymdstationen ISS position, höjd och hastighe
 karta i realtid.
 
 I denna applikation har JS-biblioteket leaflet använts, kontribution har givits i enlighet med vad som krävs för att nyttja tjänsten.
+
+Applikationen kan ses geneom följande länk: https://anderssundin.github.io/ISS/
