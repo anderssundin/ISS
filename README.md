@@ -5,14 +5,13 @@ Denna applikation hämtar data om rymdstationen **ISS**  position, höjd och has
 karta i realtid.
 
 I denna applikation har JS-biblioteket leaflet använts, kontribution har givits i enlighet med vad som krävs för att nyttja tjänsten.
-Applikationen kan ses geneom följande länk: https://anderssundin.github.io/ISS/
+Applikationen kan ses genom följande länk: https://anderssundin.github.io/ISS/
 
 
 ## För att clona denna repository till din dator:
 
 - Skapa en mapp på din dator ex "ISS"
 - Navigera till mappen via exempelvis kommandotolken
-- Skriv: git init
 - Skriv: git clone https://github.com/anderssundin/ISS
 Nu laddas en kopia ner till din dator och den mapp du angett.
 
